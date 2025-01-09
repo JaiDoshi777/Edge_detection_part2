@@ -42,5 +42,8 @@ Apply Watershed Algorithm: The Watershed algorithm is applied using cv2.watershe
 Finally, contours are found again in the segmented image, and contours corresponding to the coins are drawn.
 
 <img width="409" alt="image" src="https://github.com/user-attachments/assets/64f67f12-f1f3-4741-85ca-3bec7ae188df" />
+<img width="398" alt="image" src="https://github.com/user-attachments/assets/4c024cfb-10e4-4165-8120-b895a77c2310" />
+<img width="398" alt="image" src="https://github.com/user-attachments/assets/ddfa65b4-5039-4f10-a36a-7a65c6f73695" />
+<img width="398" alt="image" src="https://github.com/user-attachments/assets/a38fcc50-11b9-4f7f-b8f7-7f401863a3b4" />
 
 
